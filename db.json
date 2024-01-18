@@ -1,0 +1,14 @@
+{
+    "users":[
+        {"id": 1, "firstName": "Eve", "lastName": "Wilson", "email": "eve.wilson@yahoo.com", "date": "2023-11-01", "salary": 71935},
+        {"id": 2, "firstName": "Helen", "lastName": "Williams", "email": "helen.williams@outlook.com", "date": "2023-03-12", "salary": 37843},
+        {"id": 3, "firstName": "Helen", "lastName": "Wilson", "email": "helen.wilson@gmail.com", "date": "2023-07-02", "salary": 33161},
+        {"id": 4, "firstName": "George", "lastName": "Wilson", "email": "george.wilson@outlook.com", "date": "2022-06-14", "salary": 52390},
+        {"id": 5, "firstName": "Charlie", "lastName": "Smith", "email": "charlie.smith@outlook.com", "date": "2023-11-19", "salary": 63330},
+        {"id": 6, "firstName": "Irene", "lastName": "Lopez", "email": "irene.lopez@outlook.com", "date": "2022-02-11", "salary": 66669},
+        {"id": 7, "firstName": "Charlie", "lastName": "Garcia", "email": "charlie.garcia@gmail.com", "date": "2022-03-01", "salary": 52268},
+        {"id": 8, "firstName": "Eve", "lastName": "Rodriguez", "email": "eve.rodriguez@yahoo.com", "date": "2023-12-16", "salary": 35928},
+        {"id": 9, "firstName": "Frank", "lastName": "Rodriguez", "email": "frank.rodriguez@gmail.com", "date": "2023-04-23", "salary": 66370},
+        {"id": 10, "firstName": "Diana", "lastName": "Smith", "email": "diana.smith@yahoo.com", "date": "2023-11-02", "salary": 64182}
+       ]
+         }
