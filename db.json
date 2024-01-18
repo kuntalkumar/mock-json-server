@@ -1,14 +1,64 @@
 {
-    "employee":[
-        {"id": 1, "firstName": "Eve", "lastName": "Wilson", "email": "eve.wilson@yahoo.com", "date": "2023-11-01", "salary": 71935},
-        {"id": 2, "firstName": "Helen", "lastName": "Williams", "email": "helen.williams@outlook.com", "date": "2023-03-12", "salary": 37843},
-        {"id": 3, "firstName": "Helen", "lastName": "Wilson", "email": "helen.wilson@gmail.com", "date": "2023-07-02", "salary": 33161},
-        {"id": 4, "firstName": "George", "lastName": "Wilson", "email": "george.wilson@outlook.com", "date": "2022-06-14", "salary": 52390},
-        {"id": 5, "firstName": "Charlie", "lastName": "Smith", "email": "charlie.smith@outlook.com", "date": "2023-11-19", "salary": 63330},
-        {"id": 6, "firstName": "Irene", "lastName": "Lopez", "email": "irene.lopez@outlook.com", "date": "2022-02-11", "salary": 66669},
-        {"id": 7, "firstName": "Charlie", "lastName": "Garcia", "email": "charlie.garcia@gmail.com", "date": "2022-03-01", "salary": 52268},
-        {"id": 8, "firstName": "Eve", "lastName": "Rodriguez", "email": "eve.rodriguez@yahoo.com", "date": "2023-12-16", "salary": 35928},
-        {"id": 9, "firstName": "Frank", "lastName": "Rodriguez", "email": "frank.rodriguez@gmail.com", "date": "2023-04-23", "salary": 66370},
-        {"id": 10, "firstName": "Diana", "lastName": "Smith", "email": "diana.smith@yahoo.com", "date": "2023-11-02", "salary": 64182}
-       ]
-         }
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      },
+      {
+        "id": 2,
+        "name": "Gail Newbatt",
+        "age": 53,
+        "email": "gnewbatt1@un.org"
+      },
+      {
+        "id": 3,
+        "name": "Walliw Wilstead",
+        "age": 49,
+        "email": "wwilstead2@tripadvisor.com"
+      },
+      {
+        "id": 4,
+        "name": "Abran Proback",
+        "age": 29,
+        "email": "aproback3@theglobeandmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Roda Chappelow",
+        "age": 31,
+        "email": "rchappelow4@oaic.gov.au"
+      },
+      {
+        "id": 6,
+        "name": "Karney Wylie",
+        "age": 22,
+        "email": "kwylie5@miitbeian.gov.cn"
+      },
+      {
+        "id": 7,
+        "name": "Cammi Pimbley",
+        "age": 63,
+        "email": "cpimbley6@nyu.edu"
+      },
+      {
+        "id": 8,
+        "name": "Gavra Manning",
+        "age": 43,
+        "email": "gmanning7@lycos.com"
+      },
+      {
+        "id": 9,
+        "name": "Zachary Seward",
+        "age": 45,
+        "email": "zseward8@oracle.com"
+      },
+      {
+        "id": 10,
+        "name": "Chucho Norssister",
+        "age": 20,
+        "email": "cnorssister9@mayoclinic.com"
+      }
+    ]
+  }
